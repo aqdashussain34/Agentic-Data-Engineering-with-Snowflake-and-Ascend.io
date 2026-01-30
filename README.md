@@ -1,4 +1,5 @@
-#**Agentic Data Engineering with Snowflake and Ascend.io**
+**Agentic Data Engineering with Snowflake and Ascend.io**
+
 📌 **Project Overview**
 This project demonstrates the transition from manual data orchestration to Agentic Data Engineering. Using the Ascend.io platform, I architected an automated data lifecycle that handles ingestion, transformation, and predictive analytics natively on a Snowflake data cloud.
 
